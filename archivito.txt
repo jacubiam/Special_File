@@ -1,0 +1,3 @@
+Este es un archivo de texto plano.
+
+No hay nada especial en el solo texto en formato UTF-8.
