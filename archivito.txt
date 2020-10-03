@@ -1,6 +1,6 @@
 Este es un archivo de texto plano.
 
-No hay nada especial en el, solo texto en formato UTF-8.
+No hay nada especial en el, solo texto codificado en formato UTF-8.
 
 Bueno a decir verdad ¿que es ser especial?
 ¿Que definimos como especial o trivial? si cada segundo
